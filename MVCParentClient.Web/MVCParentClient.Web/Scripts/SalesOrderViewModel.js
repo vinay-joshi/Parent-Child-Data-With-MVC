@@ -47,10 +47,12 @@ salesOrderViewModel = function (data) {
 
     self.save = function () {
         console.log(ko.toJSON(self));
+        var dataConverted = ko.toJSON(self, dataConverter);
+        console.log(dataConverted);
         $.ajax({
             url: "/Sales/Save",
             type: "POST",
-            data: ko.mapping.toJS(self,dataConverter),
+            data: ko.mapping.toJS(dataConverted),
             contenttype: "application/json",
             success: function (data) {
                 if (data.salesOrderViewModel != null) {
