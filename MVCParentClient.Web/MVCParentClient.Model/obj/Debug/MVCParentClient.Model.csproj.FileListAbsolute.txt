@@ -1,0 +1,5 @@
+c:\users\vinay joshi\documents\visual studio 2013\Projects\MVCParentClient.Web\MVCParentClient.Model\bin\Debug\MVCParentClient.Model.dll
+c:\users\vinay joshi\documents\visual studio 2013\Projects\MVCParentClient.Web\MVCParentClient.Model\bin\Debug\MVCParentClient.Model.pdb
+c:\users\vinay joshi\documents\visual studio 2013\Projects\MVCParentClient.Web\MVCParentClient.Model\obj\Debug\MVCParentClient.Model.csprojResolveAssemblyReference.cache
+c:\users\vinay joshi\documents\visual studio 2013\Projects\MVCParentClient.Web\MVCParentClient.Model\obj\Debug\MVCParentClient.Model.dll
+c:\users\vinay joshi\documents\visual studio 2013\Projects\MVCParentClient.Web\MVCParentClient.Model\obj\Debug\MVCParentClient.Model.pdb
